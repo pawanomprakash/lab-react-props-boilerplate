@@ -7,7 +7,7 @@ export default defineConfig(() => {
       outDir: 'build',
     },
     plugins: [react()],
-    // base:'/lab-react-jsx-boilerplate/'
+    base:'/lab-react-props-boilerplate/'
     
   };
 });
